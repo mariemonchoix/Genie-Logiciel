@@ -1,3 +1,4 @@
+# Synthèse Existant
 Le premier stimulateur cardiaque a été implanté chez l’homme en 1958.
 
 Il existe déjà des dispositifs similaires à notre projet de pacemaker connecté qui permettent la détection d'arythmies et la surveillance en temps réel des caractéristiques cardiaques des patients. Ces dispositifs sont appelés "défibrillateurs cardiaques implantables" (DCI) ou "défibrillateurs automatiques implantables" (DAI), et ils sont utilisés pour traiter une variété de problèmes cardiaques, y compris la bradycardie et la fibrillation ventriculaire.
