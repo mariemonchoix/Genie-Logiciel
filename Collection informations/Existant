@@ -1,6 +1,11 @@
 Le premier stimulateur cardiaque a été implanté chez l’homme en 1958.
 
 Il existe déjà des dispositifs similaires à notre projet de pacemaker connecté qui permettent la détection d'arythmies et la surveillance en temps réel des caractéristiques cardiaques des patients. Ces dispositifs sont appelés "défibrillateurs cardiaques implantables" (DCI) ou "défibrillateurs automatiques implantables" (DAI), et ils sont utilisés pour traiter une variété de problèmes cardiaques, y compris la bradycardie et la fibrillation ventriculaire.
+Le stimulateur comporte deux parties :
+
+Le générateur d’impulsions électriques (batterie) est composé d’une pile longue durée et de circuits électroniques pour produire les impulsions électriques.
+Les électrodes ou sondes sont au nombre de une ou deux selon le type d’arythmie détectée. L’électrode est un fil électrique isolé et flexible. Une fois reliée au générateur, elle achemine les impulsions électriques jusqu’au cœur.
+
 Voici leur fonctionnement : 
 
 - Détection des arythmies : Les DCI/DAI sont équipés de capteurs sophistiqués qui surveillent en permanence l'activité électrique du cœur. Lorsque ces capteurs détectent une arythmie cardiaque anormale, telle qu'une bradycardie excessive ou une fibrillation ventriculaire, le dispositif prend des mesures pour corriger le rythme cardiaque.
