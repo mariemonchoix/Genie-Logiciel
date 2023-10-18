@@ -1,7 +1,20 @@
 Informations concernant la sécurité du pacemaker 
 
 La sécurité du dispositif médical est un point essentiel dans notre projet afin d'assurer la sécurité du patient car il régule le rythme cardiaque de ce dernier. De plus, notre pacemaker permet d'envoyer
-les informations de santé (rythme cardiaque...) en temps réel au médecin, donc la sécurité de ces communications doit être assurée.
+les informations de santé (rythme cardiaque...) en temps réel au médecin, donc la sécurité de ces communications doit être assurée. Toute interruption ou dysfonctionnement de ce processus pourrait avoir 
+des conséquences potentiellement mortelles, mettant en évidence l'importance de garantir la sécurité de ces dispositifs.
+Les patients porteurs de pacemakers dépendent de ces appareils pour maintenir leur santé et leur qualité de vie. En cas de défaillance, la mobilité et la capacité à mener une vie normale sont compromises, 
+engendrant des inquiétudes et un impact significatif sur la qualité de vie des patients.
+
+La sécurité des pacemakers protège directement les patients, en garantissant que leurs cœurs sont régulés de manière adéquate, évitant ainsi des complications graves telles que des syncope cardiaques
+et des arrêts cardiaques potentiels.
+En outre, la sécurité des pacemakers concerne la protection des données de santé du patient. Les informations médicales sensibles recueillies et transmises par ces appareils doivent être sécurisées 
+pour éviter tout accès non autorisé et garantir la confidentialité des données.
+
+Menances internes : 
+Les pacemakers sont des dispositifs électroniques complexes, et les failles matérielles, telles que des problèmes de batteries ou de circuits électroniques, représentent un risque majeur pour leur fonctionnement.
+Les défaillances matérielles pourraient entraîner des interruptions du rythme cardiaque et mettre la vie du patient en danger.
+
 
 
 Globalement un bon système de sécurité doit :
