@@ -25,29 +25,29 @@ Menaces externes :
 Les pacemakers avec des capacités de transmission de données sont exposés aux attaques cybercriminelles. Les pirates informatiques pourraient essayer de compromettre le fonctionnement des dispositifs
 ou d'accéder aux données de santé du patient à distance.
 
-Interception des données de santé :
+**Interception des données de santé :**
 Les données de santé transmises par les pacemakers peuvent être interceptées en transit entre l'appareil et les systèmes de surveillance médicale, mettant ainsi en péril la confidentialité des
 informations médicales du patient.
 
 Risques pour la confidentialité :
 ----------------------------------
-Accès non autorisé aux données de santé :
+**Accès non autorisé aux données de santé :**
 Les données de santé stockées dans le pacemaker doivent être protégées contre l'accès non autorisé. Un accès non autorisé à ces informations peut compromettre la vie privée du patient et avoir 
 des conséquences néfastes.
 
-Partage non autorisé d'informations :
+**Partage non autorisé d'informations :**
 La divulgation non autorisée de données de santé peut entraîner une violation de la confidentialité, des problèmes de responsabilité légale et une perte de confiance des patients 
 envers les dispositifs médicaux connectés.
 
 
 Fonctionnement de la sécurtié du pacemaker : 
-Authentification et autorisation :
+--------------------------------------------
 
-Authentification du médecin et du patient :
+**Authentification du médecin et du patient :**
 Les pacemakers disposent de mécanismes d'authentification pour s'assurer que seuls les médecins et les patients autorisés peuvent accéder aux données du dispositif. 
 Cela implique l'utilisation d'identifiants, de mots de passe ou d'autres méthodes de vérification.
 
-Gestion des accès :
+**Gestion des accès :**
 Les dispositifs doivent gérer de manière sécurisée les autorisations d'accès, déterminant qui peut visualiser et modifier les paramètres
 
 
