@@ -1,4 +1,4 @@
-<strong>Informations concernant la sécurité du pacemaker</strong>
+<strong> Informations concernant la sécurité du pacemaker </strong>
 
 La sécurité du dispositif médical est un point essentiel dans notre projet afin d'assurer la sécurité du patient car il régule le rythme cardiaque de ce dernier. De plus, notre pacemaker permet d'envoyer
 les informations de santé (rythme cardiaque...) en temps réel au médecin, donc la sécurité de ces communications doit être assurée. Toute interruption ou dysfonctionnement de ce processus pourrait avoir 
