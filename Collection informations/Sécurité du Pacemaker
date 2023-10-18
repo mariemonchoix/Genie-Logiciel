@@ -1,4 +1,4 @@
-Informations concernant la sécurité du pacemaker
+// Informations concernant la sécurité du pacemaker
 ================================================
 
 La sécurité du dispositif médical est un point essentiel dans notre projet afin d'assurer la sécurité du patient car il régule le rythme cardiaque de ce dernier. De plus, notre pacemaker permet d'envoyer
@@ -12,13 +12,15 @@ et des arrêts cardiaques potentiels.
 En outre, la sécurité des pacemakers concerne la protection des données de santé du patient. Les informations médicales sensibles recueillies et transmises par ces appareils doivent être sécurisées 
 pour éviter tout accès non autorisé et garantir la confidentialité des données.
 
-Menances internes : 
+Menances internes :
+---------------------
 Risques liés aux failles matérielles : 
 Les pacemakers sont des dispositifs électroniques complexes, et les failles matérielles, telles que des problèmes de batteries ou de circuits électroniques, représentent un risque majeur pour leur fonctionnement.
 Vulnérabilités des logiciels et du système de transmission :
 Les défaillances matérielles pourraient entraîner des interruptions du rythme cardiaque et mettre la vie du patient en danger.
 
 Menaces externes : 
+------------------
 Attaques cybercriminelles :
 Les pacemakers avec des capacités de transmission de données sont exposés aux attaques cybercriminelles. Les pirates informatiques pourraient essayer de compromettre le fonctionnement des dispositifs
 ou d'accéder aux données de santé du patient à distance.
@@ -28,6 +30,7 @@ Les données de santé transmises par les pacemakers peuvent être interceptées
 informations médicales du patient.
 
 Risques pour la confidentialité :
+----------------------------------
 Accès non autorisé aux données de santé :
 Les données de santé stockées dans le pacemaker doivent être protégées contre l'accès non autorisé. Un accès non autorisé à ces informations peut compromettre la vie privée du patient et avoir 
 des conséquences néfastes.
