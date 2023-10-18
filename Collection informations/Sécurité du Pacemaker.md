@@ -14,14 +14,14 @@ pour éviter tout accès non autorisé et garantir la confidentialité des donn�
 
 Menances internes :
 ---------------------
-Risques liés aux failles matérielles : 
+**Risques liés aux failles matérielles :**
 Les pacemakers sont des dispositifs électroniques complexes, et les failles matérielles, telles que des problèmes de batteries ou de circuits électroniques, représentent un risque majeur pour leur fonctionnement.
-Vulnérabilités des logiciels et du système de transmission :
+**Vulnérabilités des logiciels et du système de transmission :**
 Les défaillances matérielles pourraient entraîner des interruptions du rythme cardiaque et mettre la vie du patient en danger.
 
 Menaces externes : 
 ------------------
-Attaques cybercriminelles :
+**Attaques cybercriminelles :**
 Les pacemakers avec des capacités de transmission de données sont exposés aux attaques cybercriminelles. Les pirates informatiques pourraient essayer de compromettre le fonctionnement des dispositifs
 ou d'accéder aux données de santé du patient à distance.
 
