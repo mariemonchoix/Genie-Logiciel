@@ -4,6 +4,10 @@ Syntaxe :
 
 *Ceci est en italique*
 
+~~This was mistaken text~~
+
+**This text is _extremely_ important**
+
 - Élément 1
 - Élément 2
 - Élément 3
