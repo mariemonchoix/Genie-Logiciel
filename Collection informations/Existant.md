@@ -51,6 +51,11 @@ Apports
 - Détection précoce des arythmies
 - Mise en place précoce d'un traitement adapté
 
+Schéma Pacemaker
+---------------------------
+
+![Coeur et pacemaker](https://github.com/mariemonchoix/Genie-Logiciel/assets/147621097/653e2f7f-115c-460c-b809-65de373fc0cc)
+
 
 Entreprise leaders sur le marché : 
 ----------------------------
@@ -66,7 +71,7 @@ Entreprise leaders sur le marché :
 
 - Abbott (anciennement St. Jude Medical) : Abbott fabrique des DCI et des DAI sous la marque "Abbott/St. Jude Medical ICD."
 
-  Schéma
-![Coeur et pacemaker](https://github.com/mariemonchoix/Genie-Logiciel/assets/147621097/653e2f7f-115c-460c-b809-65de373fc0cc)
+
+
 
   
