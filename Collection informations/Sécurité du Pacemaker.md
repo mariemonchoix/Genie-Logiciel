@@ -16,9 +16,11 @@ Menances internes :
 ---------------------
 **Risques liés aux failles matérielles :**
 
+
 Les pacemakers sont des dispositifs électroniques complexes, et les failles matérielles, telles que des problèmes de batteries ou de circuits électroniques, représentent un risque majeur pour leur fonctionnement.
 
 **Vulnérabilités des logiciels et du système de transmission :**
+
 
 Les défaillances matérielles pourraient entraîner des interruptions du rythme cardiaque et mettre la vie du patient en danger.
 
