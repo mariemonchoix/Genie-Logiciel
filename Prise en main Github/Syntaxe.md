@@ -25,3 +25,14 @@ Syntaxe :
 Voici du `code` en ligne.
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+Si problème pour faire des titres et sous-titres :
+
+
+TITRE
+======
+(mettre ligne de égal en dessous)
+
+Sous-titres
+-----------
+(mettre ligne de moins en dessous, sans 1, 2, 3 pour les parties)
