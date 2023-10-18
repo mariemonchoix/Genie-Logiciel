@@ -9,9 +9,13 @@ Les électrodes ou sondes sont au nombre de une ou deux selon le type d’arythm
 
 Voici leur fonctionnement : 
 
-- Détection des arythmies : Les DCI/DAI sont équipés de capteurs sophistiqués qui surveillent en permanence l'activité électrique du cœur. Lorsque ces capteurs détectent une arythmie cardiaque anormale, telle qu'une bradycardie excessive ou une fibrillation ventriculaire, le dispositif prend des mesures pour corriger le rythme cardiaque.
+1. Détection des arythmies
 
-- Stimulation cardiaque : Tout d'abord, si le patient présente une bradycardie, le DCI/DAI peut délivrer de petites impulsions électriques pour stimuler le cœur et maintenir un rythme cardiaque normal.
+Les DCI/DAI sont équipés de capteurs sophistiqués qui surveillent en permanence l'activité électrique du cœur. Lorsque ces capteurs détectent une arythmie cardiaque anormale, telle qu'une bradycardie excessive ou une fibrillation ventriculaire, le dispositif prend des mesures pour corriger le rythme cardiaque.
+
+2. Stimulation cardiaque
+
+Tout d'abord, si le patient présente une bradycardie, le DCI/DAI peut délivrer de petites impulsions électriques pour stimuler le cœur et maintenir un rythme cardiaque normal.
 
 - Défibrillation : En cas de fibrillation ventriculaire, une arythmie potentiellement mortelle, le DCI/DAI est capable de délivrer une décharge électrique plus puissante pour rétablir le rythme cardiaque normal. Cela équivaut à une défibrillation automatique interne (DAI) et peut sauver la vie du patient.
 Stockage de données : Ces dispositifs sont équipés de mémoire pour stocker des données sur l'activité cardiaque du patient. Ces informations peuvent être récupérées lors de visites de suivi médical pour aider les médecins à évaluer l'état du patient.
