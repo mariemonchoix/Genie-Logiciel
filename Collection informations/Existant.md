@@ -10,6 +10,7 @@ Les électrodes ou sondes sont au nombre de une ou deux selon le type d’arythm
 Voici leur fonctionnement : 
 
 1. Détection des arythmies
+----------------------------
 
 Les DCI/DAI sont équipés de capteurs sophistiqués qui surveillent en permanence l'activité électrique du cœur. Lorsque ces capteurs détectent une arythmie cardiaque anormale, telle qu'une bradycardie excessive ou une fibrillation ventriculaire, le dispositif prend des mesures pour corriger le rythme cardiaque.
 
