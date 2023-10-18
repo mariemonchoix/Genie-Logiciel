@@ -2,10 +2,6 @@ Cette étape sert à répertorier les résultats attendus pour le projet. Cela c
 des commanditaires qui conditionnent leur acceptation.
 
 
-Les pacemakers sont des dispositifs médicaux vitaux utilisés pour réguler le rythme cardiaque des patients. Ils fonctionnent en émettant de faibles impulsions électriques pour stimuler le cœur lorsque son 
-rythme est anormal. Cette intervention est essentielle pour maintenir la santé des patients souffrant de problèmes cardiaques. Cependant, ces appareils ont évolué pour inclure des fonctionnalités de 
-transmission en temps réel des informations de santé, offrant ainsi un moyen de surveillance continue et de télémédecine.
-
 Les pacemakers modernes intègrent désormais des capacités de communication en temps réel, permettant d'envoyer des données médicales essentielles aux médecins et aux professionnels de la santé, améliorant 
 ainsi la gestion des patients. Nous aimerions donc intégrer cela à notre pacemaker.
 Ces fonctionnalités de transmission ouvrent la porte à une surveillance constante, à un suivi médical précis et à des réponses rapides en cas de problèmes cardiaques, 
