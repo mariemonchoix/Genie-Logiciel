@@ -24,8 +24,46 @@ Une fois que le boitier externe a réceptionné les données du patient, il peut
 Si le pacemaker détecte une anomalie ou des évèement critiques, il génère des alertes liées à la santé du patient. Celles-ci sont alors tranmises en temps réel au système de télémédecine de façon à ce qu'il soit averti en cas de problème potentiel. Dans cette situation, il faudra alors prendre RDV avec le practitien pour trouver l'anomalie.
 
 
-![Tlésurveillance ](https://www.noelshack.com/2023-42-3-1697639127-tlesurveillance.png)
+Système de Télémédecine - Architecture Informatique
+
+Le système de télémédecine repose sur une architecture informatique complexe qui permet de collecter, stocker et analyser les données médicales des patients à distance. Voici les principaux composants informatiques de ce système :
 
 
+
+  A REGARDER POUR LA PROCHAINE FOIS TELEMEDECIN ARCHITECTURE INFORMATIQUE
+  
+    Serveurs de Base de Données :
+        Les serveurs de base de données stockent de manière sécurisée toutes les données médicales des patients, y compris les données provenant des pacemakers.
+        Ces données sont organisées en bases de données dédiées et sont accessibles via une interface en ligne sécurisée.
+
+    Interface en Ligne Sécurisée :
+        L'interface en ligne est l'application à laquelle les médecins et les professionnels de la santé accèdent pour consulter les données des patients.
+        Elle permet une navigation conviviale des données, avec des tableaux de bord, des graphiques et des rapports détaillés.
+
+    Modules d'Analyse :
+        Des modules d'analyse sont intégrés dans le système pour aider les médecins à interpréter les données.
+        Ces modules peuvent être équipés d'algorithmes de détection d'arythmies ou d'autres fonctionnalités d'analyse avancées.
+
+    Système de Notification d'Alertes :
+        Un système d'alertes et de notifications est mis en place pour alerter les médecins en cas d'événements médicaux critiques ou de problèmes de santé nécessitant une intervention immédiate.
+
+    Connexions Sécurisées :
+        Les connexions entre les pacemakers des patients, les récepteurs externes, le boîtier de télésurveillance et le système de télémédecine sont sécurisées par des protocoles de sécurité avancés, notamment le chiffrement des données.
+
+    Stockage de Données Chiffrées :
+        Les données médicales sont stockées de manière sécurisée avec un chiffrement fort pour garantir la confidentialité des informations.
+
+    Mises à Jour et Maintenance :
+        Le système de télémédecine doit être régulièrement mis à jour pour garantir son bon fonctionnement et la sécurité des données.
+        Les mises à jour logicielles sont effectuées pour améliorer les performances, corriger les problèmes potentiels et ajouter de nouvelles fonctionnalités.
+
+    Accès à Distance :
+        Les médecins ont la possibilité d'accéder au système de télémédecine à distance, ce qui leur permet de surveiller les patients depuis n'importe quel endroit disposant d'une connexion Internet sécurisée.
+
+    Plateformes Mobiles :
+        Certains systèmes de télémédecine offrent également des applications mobiles pour permettre aux médecins de consulter les données des patients sur des appareils mobiles tels que des smartphones et des tablettes.
+
+    Sécurité et Conformité :
+        La sécurité des données et la conformité aux réglementations médicales, telles que la HIPAA aux États-Unis, sont essentielles dans tout système de télémédecine pour garantir la protection des informations de santé des patients.
 
 
