@@ -33,6 +33,12 @@ Télésurveillance
 Certains DCI/DAI sont également connectés à des systèmes de télésurveillance, ce qui permet aux médecins de surveiller à distance l'état du patient en temps réel. En cas de détection d'événements critiques, les médecins peuvent intervenir rapidement.
 Cette surveillance se fait grâce à l'envoie automatique de données enregistrées par l'appareil au cardiologue via un site internet sécurisé. 
 
+	* Recueil des donnés : le patient reçoit un transmetteur qu’il installe chez lui, de préférence dans sa chambre car les transmissions se font généralement la nuit. L’exportation des données se fait grâce à la télémétrie de manière automatique. Le transmetteur est connecté au réseau téléphonique fixe par un câble ou au réseau mobile (GSM). Les données sont transmises sur un site internet sécurisé. La programmation à distance du PM est actuellement indisponible, cela correspondrait à un élément à développer. 
+
+	* Les données récoltées : résultats de tests (intégrité des sondes, mesures amplitude des ondes P et R, évaluation de l’état de la batterie, mesure des seuils de simulation (estimation de la quantité de courant nécessaire pour entraîner la dépolarisation myocardique). Le coeur des données récoltées est l’enregistrement des arythmies détectées et le recueil des signaux électrique intra-cavitaires. 
+
+	* Envoie des données : soit périodiquement ce qui permet de remplacer les consultations de suivi au cabinet du cardiologue/rythmologue, soit avec configuration d’alarmes permettant de détecter la survenue du trouble du rythme ou d’usure la batterie et l’alerte sera envoyé par mail fax ou SMS en fonction des configurations
+
 Durée de vie des appareils
 ----------------------------
 
