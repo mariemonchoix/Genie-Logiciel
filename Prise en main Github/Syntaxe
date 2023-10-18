@@ -8,6 +8,8 @@ Syntaxe :
 
 **This text is _extremely_ important**
 
+***All this text is important***
+
 - Élément 1
 - Élément 2
 - Élément 3
@@ -22,3 +24,4 @@ Syntaxe :
 
 Voici du `code` en ligne.
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
