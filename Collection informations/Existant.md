@@ -67,5 +67,5 @@ Entreprise leaders sur le marché :
 - Abbott (anciennement St. Jude Medical) : Abbott fabrique des DCI et des DAI sous la marque "Abbott/St. Jude Medical ICD."
 
   Schéma
-  !https://www.ccjj.fr/sites/default/files/inline-images/stimulateur-cardiaque.jpg!
+  !(https://www.ccjj.fr/sites/default/files/inline-images/stimulateur-cardiaque.jpg)
   
