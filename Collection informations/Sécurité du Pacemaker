@@ -1,4 +1,5 @@
 Informations concernant la sécurité du pacemaker
+================================================
 
 La sécurité du dispositif médical est un point essentiel dans notre projet afin d'assurer la sécurité du patient car il régule le rythme cardiaque de ce dernier. De plus, notre pacemaker permet d'envoyer
 les informations de santé (rythme cardiaque...) en temps réel au médecin, donc la sécurité de ces communications doit être assurée. Toute interruption ou dysfonctionnement de ce processus pourrait avoir 
@@ -38,11 +39,13 @@ envers les dispositifs médicaux connectés.
 
 Fonctionnement de la sécurtié du pacemaker : 
 Authentification et autorisation :
+
 Authentification du médecin et du patient :
 Les pacemakers disposent de mécanismes d'authentification pour s'assurer que seuls les médecins et les patients autorisés peuvent accéder aux données du dispositif. 
 Cela implique l'utilisation d'identifiants, de mots de passe ou d'autres méthodes de vérification.
 
-
+Gestion des accès :
+Les dispositifs doivent gérer de manière sécurisée les autorisations d'accès, déterminant qui peut visualiser et modifier les paramètres
 
 
 
