@@ -52,8 +52,31 @@ Cela implique l'utilisation d'identifiants, de mots de passe ou d'autres méthod
 Les dispositifs doivent gérer de manière sécurisée les autorisations d'accès, déterminant qui peut visualiser et modifier les paramètres
 
 **Cryptage des données de santé :**
+Les données de santé transmises par le pacemaker et les sytèmes de surveillance médicale et stockées dans le pacemaker sont cryptées pour empêcher toute lecture non autorisée. Le chiffrement garantit que seuls les destinataires autorisés peuvent déchiffrer et interpréter les informations médicales.
 
+ Limites de la sécurité des pacemakers :
+ ---------------------------------------
+**Limites technologiques :**
 
+Mises à jour logicielles :
+Les mises à jour logicielles pour corriger les vulnérabilités de sécurité peuvent être complexes, car elles doivent être effectuées avec prudence pour éviter toute interruption du dispositif.
+
+Limites liées à l'interopérabilité :
+-----------------------------------
+Intégration avec d'autres systèmes de santé :
+
+L'interopérabilité des pacemakers avec d'autres systèmes de santé, tels que les dossiers médicaux électroniques, peut créer des points faibles potentiels dans la sécurité. Les connexions avec d'autres dispositifs ou réseaux doivent être soigneusement sécurisées.
+
+Normes de communication :
+Les pacemakers doivent respecter des normes de communication pour interagir avec les dispositifs médicaux et les systèmes de surveillance. Les défis de sécurité surviennent lorsque ces normes sont obsolètes ou ne sont pas correctement mises en œuvre.
+
+Facteurs Humains : 
+-------------------
+Risques liés à l'utilisation par les patients :
+Les patients porteurs de pacemakers doivent être formés à leur utilisation et aux signes d'alarme en cas de problèmes. Les erreurs humaines, telles que le non-respect des recommandations médicales, peuvent avoir un impact sur la sécurité.
+
+Formation du personnel médical :
+Le personnel médical doit également être formé pour gérer et surveiller les pacemakers de manière adéquate. Un manque de compétence ou de formation peut entraîner des risques pour la sécurité du patient.
 
 
 
