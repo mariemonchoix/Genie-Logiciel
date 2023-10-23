@@ -13,10 +13,13 @@ Pour nous repérer dans l'avancement du dossier, nous pouvons ouvrir les comptes
 A l'heure acctuelle, chacun à un rôle défini :
 - Marie : Recherche sur la sécurité
 - Cloé et Anaïs : Recherche sur les dispositifs existants
-- Anne-Laure : ?
+- Anne-Laure : Recherche sur le transfert des données
 - Stéphanie : Responsable logciel et organisation
 
-**problèmes existants**
----------------------
+**problèmes existants et solutions**
+----------------------------------
 
-Au niveau de l'organisation : difficulté de maîtriser parfaitement le logiciel car c'est 
+Au niveau de l'organisation :
+difficulté de maîtriser parfaitement le logiciel car c'est une première fois pour tout le monde --> petite réunion avec les référents de chaque groupe pour s'entraider
+Améliorer le Gantt --> recherche internet
+
