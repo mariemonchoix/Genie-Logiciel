@@ -23,3 +23,16 @@ Au niveau de l'organisation :
 difficulté de maîtriser parfaitement le logiciel car c'est une première fois pour tout le monde --> petite réunion avec les référents de chaque groupe pour s'entraider
 Améliorer le Gantt --> recherche internet
 
+Au niveau des recherches :
+- Sécurité :
+- Dispositif existant
+- Transfert de données
+
+  **Les objectifs futurs**
+  -----------------------
+
+  -Terminer les recherches
+  -Mise en page simple et efficace pour notre projet
+  -Présenter notre projet
+  
+
