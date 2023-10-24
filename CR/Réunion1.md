@@ -31,9 +31,9 @@ Au niveau des recherches :
 **Les objectifs futurs**
   -----------------------
 
-  -Terminer les recherches
-  -Mise en page simple et efficace pour notre projet
-  -Présenter notre projet
-  -Attaquer la partie du cahier des charges
+  - Terminer les recherches
+  - Mise en page simple et efficace pour notre projet
+  - Présenter notre projet
+  - Attaquer la partie du cahier des charges
   
 
