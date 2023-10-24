@@ -2,11 +2,11 @@
 ====================================
 
 Objectifs de la séance : définir les rôles de chacunes en priorité
-Marie : Sécurité
-Anais : existant
-Stéphanie : mise en page, gantt, comprendre l'outil GitHub
-Cloé : existant
-Anne- Laure : Technologie du pacemaker, savoir comment fonctionne l'envoi plus détaillé pour de la télémédecine ou bien à courte portée chez le médecin
+- Marie : Sécurité
+- Anais : existant
+- Stéphanie : mise en page, gantt, comprendre l'outil GitHub
+- Cloé : existant
+- Anne- Laure : Technologie du pacemaker, savoir comment fonctionne l'envoi plus détaillé pour de la télémédecine ou bien à courte portée chez le médecin
 
 
 A faire pour la prochaine séance :
