@@ -1,4 +1,5 @@
-Compte rendu de la séance 18/10/23
+**Compte rendu de la séance 18/10/23**
+====================================
 
 Objectifs de la séance : définir les rôles de chacunes en priorité
 Marie : Sécurité
@@ -10,8 +11,8 @@ Anne- Laure : Technologie du pacemaker, savoir comment fonctionne l'envoi plus d
 
 A faire pour la prochaine séance :
 
-- Anaïs
-- Marie 
-- Cloé
-- Anne-Laure
-- Stéphanie
+- Anaïs : compléter le cahier des charges
+- Marie : sécurité 
+- Cloé : compléter le cahier des charges
+- Anne-Laure : compléter le cahier des charges
+- Stéphanie : mieux comprendre le gantt, vérifier les documents et la mise en page
