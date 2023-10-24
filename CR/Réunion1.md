@@ -24,15 +24,16 @@ difficulté de maîtriser parfaitement le logiciel car c'est une première fois 
 Améliorer le Gantt --> recherche internet
 
 Au niveau des recherches :
-- Sécurité :
-- Dispositif existant
-- Transfert de données
+- Sécurité : 
+- Dispositif existant : trier les données collectées.
+- Transfert de données : comprendre les mécanismes de transfert, ce qui est possible pour notre projet
 
-  **Les objectifs futurs**
+**Les objectifs futurs**
   -----------------------
 
   -Terminer les recherches
   -Mise en page simple et efficace pour notre projet
   -Présenter notre projet
+  -Attaquer la partie du cahier des charges
   
 
