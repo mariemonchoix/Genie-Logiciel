@@ -16,3 +16,22 @@ Penser à améliorer le début de la présentation : mettre contexte et définit
 - Stéphanie : Organisation sur Github de l'élaboration du cahier des charges
 - Cloé : absente pour raison personnelle, prendra une partie en cours
 
+**Fait**
+========
+
+- Marie : objectifs et contexte du projet (cahier des charges).
+- Anaïs : Besoins et contraintes du projet.
+- Anne-Laure : correction du rythme cardiaque et la technique qui va avec. Traitement des données patients sur une longue distance.
+- Stéphanie : Création des milestones du projet. Tâches à créer et attribuer. Compte-rendu de la séance ...
+
+**à faire**
+==========
+
+Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le site) et je continerai sur la mise en page de Github.
+
+- Finir la partie besoins et contraintes du projet
+- rajouter partie unit test
+- terminer réglemantations
+- terminer budget
+
+
