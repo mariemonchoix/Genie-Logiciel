@@ -24,6 +24,7 @@ Une fois que le boitier externe a réceptionné les données du patient, il peut
 Si le pacemaker détecte une anomalie ou des évèement critiques, il génère des alertes liées à la santé du patient. Celles-ci sont alors tranmises en temps réel au système de télémédecine de façon à ce qu'il soit averti en cas de problème potentiel. Dans cette situation, il faudra alors prendre RDV avec le practitien pour trouver l'anomalie.
 
 ![Tlésurveillance](https://github.com/mariemonchoix/Genie-Logiciel/assets/147620901/e1e1a59a-dc0b-4a0d-a6c5-96b6b5db39a5)
+![Tlésurveillance](https://github.com/mariemonchoix/Genie-Logiciel/assets/147620901/d8a8791c-c784-4ecd-9d34-5951ad28aa18)
 
 Système de Télémédecine - Architecture Informatique
 
