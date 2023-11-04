@@ -23,3 +23,6 @@ Pour pouvoir naviguer facilement dans notre projet, il vous suffit de cliquer su
 - Collection d'informations. Ce dossier est divisé en différents thèmes suivant les recherches effectuées. En effet, les sources sont importantes pour pouvoir écrire par la suite notre cahier des charges.
 - Prise en main Github. Ce document permet de mettre en page un document github pour une meilleure présentation (ex : faire des titres, insérer des photos...)
 
+Vous pouvez aussi accéder aux tâches en cours ou celles déjà effectués dans les différentes parties du logiciel. Un GANTT vous est proposé pour visualiser notre calendrier et les deadline associées.
+Nous espérons que cette lecture vous facilite la navigation.
+Pour plus d'informations, vous pouvez nous contacter directement via Github.
