@@ -11,7 +11,7 @@ Penser à améliorer le début de la présentation : mettre contexte et définit
 ======================================================
 
 - Marie : Présentation et contexte du projet
-- Anne-Laure : Préstations attendues
+- Anne-Laure : Prestations attendues
 - Anaïs : Besoins et contraintes du projet
 - Stéphanie : Organisation sur Github de l'élaboration du cahier des charges
 - Cloé : absente pour raison personnelle, prendra une partie en cours
