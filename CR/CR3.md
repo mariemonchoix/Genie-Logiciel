@@ -31,7 +31,7 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 
 - Finir la partie besoins et contraintes du projet
 - rajouter partie unit test
-- terminer réglemantations
+- terminer réglementations
 - terminer budget
 
 
