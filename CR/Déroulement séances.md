@@ -31,7 +31,7 @@ Pour l'ensemble du groupe :
 - les rôles devront être attribués
 - une meilleure compréhension du logiciel pour toutes
   
- **  - Séance 18/10/23**
+   **- Séance 18/10/23**
  ------------------------
 **Objectifs de la séance**
 
@@ -120,7 +120,7 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 
 **3. Réunions**
 ===============
-  ** - Réunion 19/10/23**
+   **- Réunion 19/10/23**
   -----------------------
 
 **Résumer de l'état actuel de nos recherches**
@@ -155,7 +155,7 @@ Au niveau des recherches :
   - Présenter notre projet
   - Attaquer la partie du cahier des charges
 
-  ** - Réunion 30/10/23**
+   **- Réunion 30/10/23**
   -----------------------
 
 **Résumer de l'état actuel de nos recherches**
