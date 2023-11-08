@@ -48,20 +48,20 @@ Diagramme de classe
 -------------------------------------
 
 
-| - id: int                         |
-| - patient: Patient                |
-| - telemetry: TelemetryModule      |
+- id: int                         
+- patient: Patient                
+- telemetry: TelemetryModule      
 
 
 
-| + getPacemakerID(): int           |
-| + getPatient(): Patient           |
-| + setPatient(patient: Patient):   |
-| + getTelemetry(): TelemetryModule |
-| + setTelemetry(telemetry:        |
-| TelemetryModule):                |
-| + sendTelemetryData(): void      |
--------------------------------------
+ + getPacemakerID(): int           
+ + getPatient(): Patient           
+ + setPatient(patient: Patient):   
+ + getTelemetry(): TelemetryModule 
+ + setTelemetry(telemetry:        
+ TelemetryModule):                
+ + sendTelemetryData(): void      
+
 
 -------------------------------------
 |           TelemetryModule          |
