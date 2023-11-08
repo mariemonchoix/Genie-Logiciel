@@ -56,6 +56,8 @@ Diagramme de classe
 
 
 
+
+
  + getPacemakerID(): int           
  + getPatient(): Patient           
  + setPatient(patient: Patient):   
@@ -72,7 +74,9 @@ Diagramme de classe
 
 
  - telemetryData: TelemetryData[]   
--------------------------------------
+
+
+
 
 + collectData(): void
 + transmitData(): void            
@@ -82,43 +86,56 @@ Diagramme de classe
 
 |           TelemetryData            |
 -------------------------------------
-
+-------------------------------------
 
  - dataID: int                     
  - heartRate: int                  
  - ECG: ECGData                    
  - activityLevel: int              
--------------------------------------
-| + getDataID(): int                |
-| + getHeartRate(): int             |
-| + getECGData(): ECGData           |
-| + getActivityLevel(): int         |
--------------------------------------
 
--------------------------------------
+
+
+ + getDataID(): int                
+ + getHeartRate(): int             
+ + getECGData(): ECGData           
+ + getActivityLevel(): int         
+
+
+
 |            ECGData                 |
 -------------------------------------
-| - ecgID: int                      |
-| - dataPoints: int[]               |
--------------------------------------
-| + getECGID(): int                 |
-| + getDataPoints(): int[]          |
--------------------------------------
+--------------------------------------
 
+ - ecgID: int                      
+ - dataPoints: int[]               
 -------------------------------------
+  getECGID(): int                 
+  getDataPoints(): int[]          
+
+
+
 |            Patient                 |
 -------------------------------------
-| - patientID: int                  |
-| - name: string                    |
-| - dateOfBirth: Date               |
-| - medicalHistory: string[]        |
 -------------------------------------
-| + getPatientID(): int             |
-| + getName(): string               |
-| + getDateOfBirth(): Date          |
-| + getMedicalHistory(): string[]   |
-| + addMedicalRecord(record: string)|
+
+
+ - patientID: int                  
+ - name: string                    
+ - dateOfBirth: Date               
+ - medicalHistory: string[]        
 -------------------------------------
+
+getPatientID(): int             
+getName(): string               
+getDateOfBirth(): Date          
+getMedicalHistory(): string[]   
+addMedicalRecord(record: string)
+
+
+
+
+
+Voici à quoi correspond chaque classe dans notre diagramme de classe :
 
 Pacemaker : Représente le pacemaker lui-même avec des attributs tels que l'identifiant, le patient associé et un module de télémétrie. Il possède des méthodes pour accéder à ces attributs et pour envoyer des données de télémétrie.
 
