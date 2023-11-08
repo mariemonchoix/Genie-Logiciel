@@ -39,16 +39,21 @@ Les composants principaux d'un diagramme de classe sont :
 
 
 Diagramme de classe 
+--------------------
 
 
 
--------------------------------------
+
 |           Pacemaker                |
 -------------------------------------
+
+
 | - id: int                         |
 | - patient: Patient                |
 | - telemetry: TelemetryModule      |
--------------------------------------
+
+
+
 | + getPacemakerID(): int           |
 | + getPatient(): Patient           |
 | + setPatient(patient: Patient):   |
@@ -107,3 +112,12 @@ Diagramme de classe
 | + addMedicalRecord(record: string)|
 -------------------------------------
 
+Pacemaker : Représente le pacemaker lui-même avec des attributs tels que l'identifiant, le patient associé et un module de télémétrie. Il possède des méthodes pour accéder à ces attributs et pour envoyer des données de télémétrie.
+
+TelemetryModule : Représente le module de télémétrie qui collecte, transmet et stocke les données de télémétrie. Il a des méthodes pour effectuer ces opérations.
+
+TelemetryData : Représente les données de télémétrie collectées, y compris le rythme cardiaque, les données ECG et le niveau d'activité. Il a des méthodes pour accéder à ces données.
+
+ECGData : Représente les données ECG spécifiques, y compris un identifiant et les points de données ECG.
+
+Patient : Représente le patient associé au pacemaker, avec des attributs tels que l'identifiant, le nom, la date de naissance et l'historique médical. Il possède des méthodes pour accéder à ces informations et pour ajouter des enregistrements médicaux.
