@@ -117,7 +117,7 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 **A faire pour la prochaine séance**
 
 
-**3. Réunions**
+**2. Réunions**
 ===============
    **- Réunion 19/10/23**
   -----------------------
@@ -176,7 +176,7 @@ Améliorer le déplacement dans github --> paragraphe pour expliquer comment se 
 
   
 
-**4. Presentation**
+**3. Presentation**
 =====================================
 
 Presentation mi-parcours du projet
