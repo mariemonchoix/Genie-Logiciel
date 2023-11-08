@@ -1,7 +1,8 @@
 **Déroulement des séances**
 ===========================
 
-1. Compte-rendu des séances
+**1. Compte-rendu des séances**
+==============================
 
    **- Séance 11/10/2023**
    -----------------------
@@ -176,7 +177,7 @@ Améliorer le déplacement dans github --> paragraphe pour expliquer comment se 
 
   
 
-**5. Presentation**
+**4. Presentation**
 =====================================
 
 Presentation mi-parcours du projet
