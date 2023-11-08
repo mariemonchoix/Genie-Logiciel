@@ -4,7 +4,7 @@
 **Objectifs de la séance**
 -------------------------
 
-définir les rôles de chacunes en priorité.
+définir les rôles de chacunes en priorité et collecter les informations sur notre sujet.
 
 **Fait**
 -------
