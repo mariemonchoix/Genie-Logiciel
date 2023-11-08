@@ -30,8 +30,10 @@ Pour l'ensemble du groupe :
 - les rôles devront être attribués
 - une meilleure compréhension du logiciel pour toutes
   
+ ------------------------ 
+ 
    **- Séance 18/10/23**
- ------------------------
+   ---------------------
 **Objectifs de la séance**
 
 
@@ -56,6 +58,8 @@ Pour les membres :
 - Cloé : compléter le cahier des charges
 - Anne-Laure : compléter le cahier des charges
 - Stéphanie : mieux comprendre le gantt, vérifier les documents et la mise en page
+
+ ------------------------
 
    **- Séance 25/10/2023**
   ---------------------------
@@ -100,6 +104,8 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 - terminer réglementations
 - terminer budget
 
+ ------------------------
+
    **- Séance 08/11/2023**
   -----------------------
 
@@ -115,7 +121,8 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 **Fait**
 
 **A faire pour la prochaine séance**
-
+ 
+ ------------------------
 
 **2. Réunions**
 ===============
@@ -154,6 +161,8 @@ Au niveau des recherches :
   - Présenter notre projet
   - Attaquer la partie du cahier des charges
 
+ ------------------------
+
    **- Réunion 30/10/23**
   -----------------------
 
@@ -174,7 +183,7 @@ Proposer un cahier des charges réalistes (budget et règlementation) --> inform
 
 Améliorer le déplacement dans github --> paragraphe pour expliquer comment se déplacer.
 
-  
+ ------------------------  
 
 **3. Presentation**
 =====================================
