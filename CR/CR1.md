@@ -1,7 +1,13 @@
 __Compte-rendu séance 1 11_10_2023__
 ==================================
 
-Objectifs de la séance : trouver notre projet et effectuer quelques recherches. Voici un petit résumé de ce que l'on a fait : 
+**Objectifs de la séance**
+-------------------------
+
+Trouver notre projet et effectuer quelques recherches.
+
+**Fait**
+-------
 
 Nous nous sommes initiés à la plateforme GitHub afin de pouvoir réaliser notre projet Pacema♥. Nous avons donc créer un dossier Génie-Logiciel dans lequel nous allons
 déposer tous nos documents au cours de chaque séance de travaux. Nous avons testé différentes créations pour apprendre à manipuler les dossiers et les fichers main.
@@ -11,7 +17,9 @@ dispositif.
 
 Nous avons commencé à chercher des articles concernant le pacemaker. Ce sera la prochaine étape que nous ferons la prochaine séance.
 
-A faire pour la prochaine séance :
+**A faire pour la prochaine séance**
+-----------------------------------
+
 Pour l'ensemble du groupe :
 - il faudra effectuer des recherches sur un thème spécifique
 - les rôles devront être attribués
