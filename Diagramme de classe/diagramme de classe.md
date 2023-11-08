@@ -44,19 +44,19 @@ Diagramme de classe
 
 
 
-|           Pacemaker                |
+|          Classe Pacemaker                |
 ------------------------------------
 
 
--------------------------------------
+
 
 - id: int                         
 - patient: Patient                
 - telemetry: TelemetryModule      
 
+--------------------------------
 
-
-
+Fonctions de la classe :
 
  + getPacemakerID(): int           
  + getPatient(): Patient           
@@ -68,15 +68,14 @@ Diagramme de classe
 
 
 
-|           TelemetryModule          |
+|           Classe TelemetryModule          |
 -------------------------------------
---------------------------------------
 
 
  - telemetryData: TelemetryData[]   
 
-
-
+-----------------------------------------
+Fonctions de la classe :
 
 + collectData(): void
 + transmitData(): void            
@@ -84,16 +83,17 @@ Diagramme de classe
 
 
 
-|           TelemetryData            |
+|        Classe TelemetryData            |
 -------------------------------------
--------------------------------------
+
 
  - dataID: int                     
  - heartRate: int                  
  - ECG: ECGData                    
  - activityLevel: int              
 
-
+------------------------------------------
+Fonctions de la classe :
 
  + getDataID(): int                
  + getHeartRate(): int             
@@ -102,28 +102,37 @@ Diagramme de classe
 
 
 
-|            ECGData                 |
+|            Classe ECGData                 |
 -------------------------------------
---------------------------------------
+
 
  - ecgID: int                      
- - dataPoints: int[]               
+ - dataPoints: int[]
+
+ - 
 -------------------------------------
+Fonctions de la classe :
+
+
   getECGID(): int                 
   getDataPoints(): int[]          
 
 
 
-|            Patient                 |
+|           Classe Patient                 |
 -------------------------------------
--------------------------------------
+
 
 
  - patientID: int                  
  - name: string                    
  - dateOfBirth: Date               
- - medicalHistory: string[]        
+ - medicalHistory: string[]
+
+ - 
 -------------------------------------
+Fonctions de la classe :
+
 
 getPatientID(): int             
 getName(): string               
