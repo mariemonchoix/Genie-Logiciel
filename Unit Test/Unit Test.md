@@ -1,3 +1,8 @@
+**Tests unitaires**
+===================
+
+Ceci est le document qui permet de recenser les tests unitaires pour vérifier l'efficacité de notre dispositif. Pour cela, nous allons effectuer plusieurs tests qui seront décrit ci-dessous.
+
 **Détection des battements cardiaques** : Tester la capacité du pacemaker à détecter les battements cardiaques naturels afin de ne pas envoyer des impulsions électriques en même temps que celles naturelles. *Validation* : le capteur de détection cardiaque capte une tension électrique comprise dans une marge définie
 
 **Stimulation**: Tester la capacité du pacemaker à générer des impulsions électriques pour stimuler le cœur en cas de besoin grâce aux capteurs de détection. *Validation* : Présence d'une tension en sortie du stimulateur
