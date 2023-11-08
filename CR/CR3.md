@@ -1,6 +1,14 @@
 **Compte rendu de la séance 25/10/2023**
 =======================================
 
+
+**Objectifs de la séance**
+---------------------------
+
+Effectuer notre présentation et avancer notre cahier des charges.
+Il faudra aussi améliroer le GANTT.
+
+
 **Présentation mi-parcours**
 ---------------------------
 
