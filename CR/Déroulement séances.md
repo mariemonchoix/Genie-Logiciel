@@ -122,8 +122,19 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 
 **Ce que nous avons fait** :
 
+- Marie : elle a effectué un diagramme de classe. Elle a donc effectué des recherches pour savoir ce que c'est et ce qu'il nous faut. Elle a ensuite organisé les différentes classes utiles pour notre projet.
+- Cloé : elle a continué le budget qu'elle avait déjà abordé pendant les vacances. Elle s'est donc renseignée sur les prix du marché et des composants.
+- Anne-Laure : elle a rédigé les Unit Test, ce dossier est à compléter. Elle a terminé les "prestations attendues".
+- Anaïs : elle a terminé de rédiger la partie "besoins et contraintes du projet" et elle a terminé "normes et règlementations".
+- Stéphanie : je me suis occupée de centraliser les informations des comptes-rendus.
+
+Nous avons aussi eu des échanges entre nous quand des problématiques arrivaient (unit test, information dans les parties).
+
 **A faire pour la prochaine séance** :
- 
+
+ - Terminer les dernières parties du cahier des charges.
+ - Préparer le power point
+ - terminer les tâches
 
 **2. Réunions**
 ===============
