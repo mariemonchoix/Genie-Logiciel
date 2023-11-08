@@ -122,7 +122,6 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 
 **A faire pour la prochaine séance**
  
- ------------------------
 
 **2. Réunions**
 ===============
@@ -183,7 +182,7 @@ Proposer un cahier des charges réalistes (budget et règlementation) --> inform
 
 Améliorer le déplacement dans github --> paragraphe pour expliquer comment se déplacer.
 
- ------------------------  
+
 
 **3. Presentation**
 =====================================
