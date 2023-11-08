@@ -12,7 +12,7 @@ héritage
 attribut et fonction en dessous
 
 
-Diagramme de Classes
+Notre diagramme de classes
 ======================
 
 Définition
@@ -52,7 +52,7 @@ Diagramme de classe
 - patient: Patient                
 - telemetry: TelemetryModule      
 
-
+===================================
 
  + getPacemakerID(): int           
  + getPatient(): Patient           
@@ -63,23 +63,28 @@ Diagramme de classe
  + sendTelemetryData(): void      
 
 
--------------------------------------
+
 |           TelemetryModule          |
 -------------------------------------
-| - telemetryData: TelemetryData[]   |
--------------------------------------
-| + collectData(): void             |
-| + transmitData(): void            |
-| + storeData(): void               |
+
+
+ - telemetryData: TelemetryData[]   
 -------------------------------------
 
--------------------------------------
++ collectData(): void
++ transmitData(): void            
++ storeData(): void               
+
+
+
 |           TelemetryData            |
 -------------------------------------
-| - dataID: int                     |
-| - heartRate: int                  |
-| - ECG: ECGData                    |
-| - activityLevel: int              |
+
+
+ - dataID: int                     
+ - heartRate: int                  
+ - ECG: ECGData                    
+ - activityLevel: int              
 -------------------------------------
 | + getDataID(): int                |
 | + getHeartRate(): int             |
