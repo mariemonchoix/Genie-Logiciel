@@ -11,7 +11,7 @@ héritage
 
 attribut et fonction en dessous
 
-<h1>Diagramme de Classes</h1>
+Diagramme de Classes
 ======================
 
 Définition
