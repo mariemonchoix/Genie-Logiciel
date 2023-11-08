@@ -10,17 +10,15 @@
 
 **Sécurité et confidentialité des données** : Tester les mécanismes de sécurité et de confidentialité pour protéger les données du patient. *Validation* : spam de ping vers le système du pacemaker, vérification de l'alarme auprès du système de télémédecine. Blocage du dispositif sur les paramètres enregistrés par le médecin et impossible de les modifier avant le prochain RDV en urgence chez le médecin
 
-**Gestion des alarmes** : Tester la génération et la gestion des alarmes en cas de problèmes. *Validation* : 
+**Gestion des alarmes** : Tester la génération et la gestion des alarmes en cas de problèmes. *Validation* : en cas d'arythmie, vérification de la présence d'une alrmae sur le système de télémmédecine
 
 **Mode de sauvegarde** : Tester le basculement automatique vers un mode de sauvegarde en cas de défaillance du pacemaker principal. *Validation* : effectuer une stimulation et vérifier dans les logs qu'il y a bien des données enregistrées
 
-**Réaction aux interférences électromagnétiques** : Tester la résistance du pacemaker aux interférences électromagnétiques externes. *Validation* : 
+**Réaction aux interférences électromagnétiques** : Tester la résistance du pacemaker aux interférences électromagnétiques externes. *Validation* : induction d'un champ magnétique proche du pacemaker et vérifier son bon fonctionnement (vérification de présence d'impulsions en cas d'arythmie)
 
-**Test de compatibilité électromagnétique (CEM)** : Vérifier que le pacemaker n'émet pas d'interférences nuisibles et qu'il est insensible aux interférences extérieures. *Validation* : 
+**Tests de robustesse** : Tester la capacité du pacemaker à résister aux conditions environnementales défavorables (humidité, chocs, température, etc.). *Validation* : humidifier le pacemaker pour identifier la 
 
-**Tests de robustesse** : Tester la capacité du pacemaker à résister aux conditions environnementales défavorables (humidité, chocs, température, etc.).
-
-**Gestion des mises à jour logicielles** : Tester la capacité de mettre à jour le logiciel du pacemaker de manière sécurisée.
+**Gestion des mises à jour logicielles** : Tester la capacité de mettre à jour le logiciel du pacemaker de manière sécurisée. *Validation* : 
 **Réponse aux erreurs et aux défaillances** : Tester la réponse du pacemaker aux erreurs et aux défaillances matérielles ou logicielles.
 **Tests de simulation** : Tester le pacemaker à l'aide de simulateurs de signaux cardiaques pour valider son fonctionnement en toute sécurité.
 **Évaluation de la sécurité des communications sans fil** : Tester la sécurité des communications sans fil entre le pacemaker et les dispositifs de contrôle.
