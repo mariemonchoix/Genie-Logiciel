@@ -8,7 +8,7 @@ Oral devant la moitié de la classe. Remarque sur ce qu'on doit améliorer (voir
 Penser à améliorer le début de la présentation : mettre contexte et définition des maladies
 
 **Répartition des grands points du cahier des charges**
-======================================================
+-------------------------------------------------------
 
 - Marie : Présentation et contexte du projet
 - Anne-Laure : Prestations attendues
@@ -17,15 +17,15 @@ Penser à améliorer le début de la présentation : mettre contexte et définit
 - Cloé : absente pour raison personnelle, prendra une partie en cours
 
 **Fait**
-========
+---------
 
 - Marie : objectifs et contexte du projet (cahier des charges).
 - Anaïs : Besoins et contraintes du projet.
 - Anne-Laure : correction du rythme cardiaque et la technique qui va avec. Traitement des données patients sur une longue distance.
 - Stéphanie : Création des milestones du projet. Tâches à créer et attribuer. Compte-rendu de la séance ...
 
-**à faire**
-==========
+**A faire pour la prochaine séance**
+-----------------------------------
 
 Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le site) et je continerai sur la mise en page de Github.
 
