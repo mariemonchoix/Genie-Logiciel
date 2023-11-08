@@ -1,4 +1,4 @@
-__Compte-rendu de la séance 11/10/2023
+Compte-rendu de la séance 11/10/2023
 ======================================
 
 **Objectifs de la séance**
