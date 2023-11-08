@@ -52,7 +52,7 @@ Diagramme de classe
 - patient: Patient                
 - telemetry: TelemetryModule      
 
-===================================
+-------------------------------------
 
  + getPacemakerID(): int           
  + getPatient(): Patient           
