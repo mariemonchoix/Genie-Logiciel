@@ -45,7 +45,7 @@ Diagramme de classe
 
 
 |           Pacemaker                |
--------------------------------------
+
 
 
 - id: int                         
@@ -65,7 +65,7 @@ Diagramme de classe
 
 
 |           TelemetryModule          |
--------------------------------------
+
 
 
  - telemetryData: TelemetryData[]   
