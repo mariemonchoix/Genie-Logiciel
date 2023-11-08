@@ -32,4 +32,13 @@ Ceci est le document qui permet de recenser les tests unitaires pour vérifier l
 **Conformité aux normes réglementaires** : S'assurer que le pacemaker est conforme aux normes et réglementations médicales en vigueur.
 **Tests de performances à long terme** : Tester la performance du pacemaker sur une période prolongée pour évaluer sa fiabilité dans le temps.
 
+Tests d'interopérabilité : Tester la capacité du pacemaker à fonctionner avec d'autres dispositifs médicaux et systèmes de santé. *Validation* : vérification à l’aide d’un moniteur, IRM, et radio et tester le bon fonctionnement (détection arythmie et correction)
+
+Tests de durée de vie : Tester la durée de vie du pacemaker dans des conditions d'utilisation normale et extrême. *Validation* : induction d’une obsolescence programmée en réalisant plusieurs stimulations programmés (pour égaler la durée de vie maximale du PM), et voir à quel moment le PM ne fonctionne plus pour savoir sa durée de vie.
+
+Conformité aux normes réglementaires : S'assurer que le pacemaker est conforme aux normes et réglementations médicales en vigueur. *Validation* : vérification du PM par les organismes de santé qui délivre l’Autorisation de Mise sur le Marché (ANSM)
+
+Tests de performances à long terme : Tester la performance du pacemaker sur une période prolongée pour évaluer sa fiabilité dans le temps. *Validation* : : induction d’une obsolescence programmée en réalisant plusieurs stimulations programmés et vérification de la correction d’arythmie
+
+
 En fonction de la position du corps regarder si la pression du coeur influe sur le fonctionnement du PM
