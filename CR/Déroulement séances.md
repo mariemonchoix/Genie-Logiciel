@@ -6,12 +6,13 @@
    **- Séance 11/10/2023**
    -----------------------
    
-**Objectifs de la séance**
+**Objectifs de la séance** :
 
 
-Trouver notre projet et effectuer quelques recherches.
+- Déterminer notre projet
+- Effectuer les premières recherches
 
-**Fait**
+**Ce que nous avons fait** :
 
 
 Nous nous sommes initiés à la plateforme GitHub afin de pouvoir réaliser notre projet Pacema♥. Nous avons donc créer un dossier Génie-Logiciel dans lequel nous allons
@@ -22,7 +23,7 @@ dispositif.
 
 Nous avons commencé à chercher des articles concernant le pacemaker. Ce sera la prochaine étape que nous ferons la prochaine séance.
 
-**A faire pour la prochaine séance**
+**A faire pour la prochaine séance** :
 
 
 Pour l'ensemble du groupe :
@@ -34,12 +35,13 @@ Pour l'ensemble du groupe :
  
    **- Séance 18/10/23**
    ---------------------
-**Objectifs de la séance**
+**Objectifs de la séance** :
 
 
-définir les rôles de chacunes en priorité et collecter les informations sur notre sujet.
+- Définir les rôles de chacunes en priorité
+- Collecter les informations sur notre sujet.
 
-**Fait**
+**Ce que nous avons fait** :
 
 
 Pour les membres :
@@ -50,7 +52,7 @@ Pour les membres :
 - Anne- Laure : Elle s'occupe de la technologie du pacemaker. L'objectif est de savoir comment fonctionne l'envoi pour de la télémédecine ou bien à courte portée chez le médecin.
 
 
-**A faire pour la prochaine séance**
+**A faire pour la prochaine séance** :
 
 
 - Anaïs : compléter le cahier des charges
@@ -64,7 +66,7 @@ Pour les membres :
    **- Séance 25/10/2023**
   ---------------------------
      
-**Objectifs de la séance**
+**Objectifs de la séance** :
 
 
 Effectuer notre présentation et avancer notre cahier des charges.
@@ -86,7 +88,7 @@ Penser à améliorer le début de la présentation : mettre contexte et définit
 - Stéphanie : Organisation sur Github de l'élaboration du cahier des charges
 - Cloé : absente pour raison personnelle, prendra une partie en cours
 
-**Fait**
+**Ce que nous avons fait** :
 
 
 - Marie : objectifs et contexte du projet (cahier des charges).
@@ -94,7 +96,7 @@ Penser à améliorer le début de la présentation : mettre contexte et définit
 - Anne-Laure : correction du rythme cardiaque et la technique qui va avec. Traitement des données patients sur une longue distance.
 - Stéphanie : Création des milestones du projet. Tâches à créer et attribuer. Compte-rendu de la séance ...
 
-**A faire pour la prochaine séance**
+**A faire pour la prochaine séance** :
 
 
 Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le site) et je continerai sur la mise en page de Github.
@@ -109,7 +111,7 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
    **- Séance 08/11/2023**
   -----------------------
 
-**Objectifs de la séance**
+**Objectifs de la séance** :
 
 
 - Terminer notre cahier des charges
@@ -118,9 +120,9 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 - Faire le compte rendu
 - modifier le planning de Gantt
 
-**Fait**
+**Ce que nous avons fait** :
 
-**A faire pour la prochaine séance**
+**A faire pour la prochaine séance** :
  
 
 **2. Réunions**
@@ -142,7 +144,7 @@ A l'heure acctuelle, chacun à un rôle défini :
 - Anne-Laure : Recherche sur le transfert des données
 - Stéphanie : Responsable logciel et organisation
 
-**problèmes existants et solutions**
+**Problèmes existants et solutions**
 
 Au niveau de l'organisation :
 difficulté de maîtriser parfaitement le logiciel car c'est une première fois pour tout le monde --> petite réunion avec les référents de chaque groupe pour s'entraider
@@ -153,7 +155,7 @@ Au niveau des recherches :
 - Dispositif existant : trier les données collectées.
 - Transfert de données : comprendre les mécanismes de transfert, ce qui est possible pour notre projet
 
-**Les objectifs futurs**
+**Les objectifs futurs** :
 
   - Terminer les recherches
   - Mise en page simple et efficace pour notre projet
@@ -165,7 +167,7 @@ Au niveau des recherches :
    **- Réunion 30/10/23**
   -----------------------
 
-**Résumer de l'état actuel de nos recherches**
+**Résumé de l'état actuel de nos recherches** :
 
 Le cahier des charges est en train de se remplir. Des tâches ont été assignées à chaque membre du groupe. Je vais les résumer ici :
 - Marie : Présentation et contexte du projet
@@ -174,7 +176,7 @@ Le cahier des charges est en train de se remplir. Des tâches ont été assigné
 - Cloé : Budget
 - Stéphanie : Organisation sur Github de l'élaboration du cahier des charges / audit pour le groupe TENS-project
 
-**problèmes existants et solutions**
+**Problèmes existants et solutions** :
 
 attention à ne pas dire la même chose dans les différentes parties --> bien communiquer et définir les points clés de notre partie.
 
