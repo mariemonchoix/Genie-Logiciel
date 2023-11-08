@@ -45,14 +45,16 @@ Diagramme de classe
 
 
 |           Pacemaker                |
+------------------------------------
 
 
+-------------------------------------
 
 - id: int                         
 - patient: Patient                
 - telemetry: TelemetryModule      
 
--------------------------------------
+
 
  + getPacemakerID(): int           
  + getPatient(): Patient           
@@ -65,7 +67,8 @@ Diagramme de classe
 
 
 |           TelemetryModule          |
-
+-------------------------------------
+--------------------------------------
 
 
  - telemetryData: TelemetryData[]   
