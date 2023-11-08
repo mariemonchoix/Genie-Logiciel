@@ -1,3 +1,5 @@
+test unitaire ne concerne que le dispositif
+
 Détection des battements cardiaques : Tester la capacité du pacemaker à détecter les battements cardiaques naturels.
 Stimulation : Tester la capacité du pacemaker à générer des impulsions électriques pour stimuler le cœur en cas de besoin.
 Réglage de la fréquence cardiaque : Tester la capacité du pacemaker à ajuster la fréquence cardiaque en fonction des besoins du patient.
