@@ -11,7 +11,10 @@ héritage
 
 attribut et fonction en dessous
 
+<p align="center">
+
 Diagramme de Classes
+</p>
 ======================
 
 Définition
