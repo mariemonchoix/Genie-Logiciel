@@ -118,7 +118,7 @@ Stéphanie auditera le projet Tens project (faire compte rendu d'audit sur le si
 - Faire le diagrammes de classes
 - Faire les Unit Test
 - Faire le compte rendu
-- modifier le planning de Gantt
+- Modifier le planning de Gantt
 
 **Ce que nous avons fait** :
 
