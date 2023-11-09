@@ -1,4 +1,4 @@
-Notre diagramme de classes
+Diagramme de classe
 ======================
 
 Définition
