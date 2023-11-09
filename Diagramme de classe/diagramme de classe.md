@@ -55,11 +55,6 @@ Notre classe pacemaker représente le pacemaker lui-même et permet de faire tou
 Notre classe ECG premet d'avoir toutes les données du coeur (par exemple le rythme cardiaque) essentielles pour le bon fonctionnement du pacemaker. Puis nous avons rajouter une classe Mode Turbo fictive pour montrer que nous avions bien compris le fonctionnement d'un diagramme de classe.
 
 
-
-
-
-TelemetryData : Représente les données de télémétrie collectées, y compris le rythme cardiaque, les données ECG et le niveau d'activité. Il a des méthodes pour accéder à ces données.
-
 ECGData : Représente les données ECG spécifiques, y compris un identifiant et les points de données ECG.
 
 Patient : Représente le patient associé au pacemaker, avec des attributs tels que l'identifiant, le nom, la date de naissance et l'historique médical. Il possède des méthodes pour accéder à ces informations et pour ajouter des enregistrements médicaux.
