@@ -76,10 +76,3 @@ Les patients porteurs de pacemakers doivent être formés à leur utilisation et
 
 **Formation du personnel médical :**
 Le personnel médical doit également être formé pour gérer et surveiller les pacemakers de manière adéquate. Un manque de compétence ou de formation peut entraîner des risques pour la sécurité du patient.
-
-
-
-Globalement un bon système de sécurité doit :
-- interdire l’accès à toute personne non autorisée
-- permettre l’accès au médecin traitant dans des conditions normales
-- ne pas bloquer l’accès en cas d’urgence à des médecins ne connaissant pas le patient
