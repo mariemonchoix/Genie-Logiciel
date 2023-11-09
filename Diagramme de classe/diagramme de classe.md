@@ -1,6 +1,6 @@
-comment on fait pour que les classes interagissent
+
 main un while, une bouce infini
-comment faire en sorte que ca marche eternellment
+
 classe constitue d'objets : switch on off...
 le main tant quon a du courant fait le truc
 objet qui centralise le tout ? 
@@ -9,7 +9,6 @@ creer des objets
 et main = 10 lignes : créer l'objet et declanche 
 héritage
 
-attribut et fonction en dessous
 
 
 Notre diagramme de classes
