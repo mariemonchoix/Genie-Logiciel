@@ -1,4 +1,5 @@
 
+
 main un while, une bouce infini
 
 classe constitue d'objets : switch on off...
@@ -153,5 +154,5 @@ Patient : Représente le patient associé au pacemaker, avec des attributs tels 
 
 
 Voici le schéma représentatif de notre diagramme de classes :
-<img width="368" alt="image" src="https://github.com/mariemonchoix/Genie-Logiciel/assets/147620874/19cc8390-1720-4939-8fc0-c10bc7073594">
+![Diagramme sans nom](https://github.com/mariemonchoix/Genie-Logiciel/assets/147620874/d8eea5f6-d7e1-40d5-b06c-399cf64881f8)
 
