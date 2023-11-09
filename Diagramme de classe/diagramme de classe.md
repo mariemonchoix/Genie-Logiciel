@@ -1,17 +1,3 @@
-
-
-main un while, une bouce infini
-
-classe constitue d'objets : switch on off...
-le main tant quon a du courant fait le truc
-objet qui centralise le tout ? 
-interaction d'objet = structure
-creer des objets
-et main = 10 lignes : créer l'objet et declanche 
-héritage
-
-
-
 Notre diagramme de classes
 ======================
 
