@@ -139,10 +139,6 @@ getDateOfBirth(): Date
 getMedicalHistory(): string[]   
 addMedicalRecord(record: string)
 
-
-
-
-
 Voici à quoi correspond chaque classe dans notre diagramme de classe :
 
 Pacemaker : Représente le pacemaker lui-même avec des attributs tels que l'identifiant, le patient associé et un module de télémétrie. Il possède des méthodes pour accéder à ces attributs et pour envoyer des données de télémétrie.
@@ -154,3 +150,8 @@ TelemetryData : Représente les données de télémétrie collectées, y compris
 ECGData : Représente les données ECG spécifiques, y compris un identifiant et les points de données ECG.
 
 Patient : Représente le patient associé au pacemaker, avec des attributs tels que l'identifiant, le nom, la date de naissance et l'historique médical. Il possède des méthodes pour accéder à ces informations et pour ajouter des enregistrements médicaux.
+
+
+Voici le schéma représentatif de notre diagramme de classes :
+<img width="368" alt="image" src="https://github.com/mariemonchoix/Genie-Logiciel/assets/147620874/19cc8390-1720-4939-8fc0-c10bc7073594">
+
