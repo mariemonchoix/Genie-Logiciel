@@ -52,12 +52,10 @@ Voici à quoi correspond chaque classe dans notre diagramme de classe :
 
 Nous avons donc 3 classes : une classe pacemaker, une classe Données ECG et une classe Mode Turbo. 
 Notre classe pacemaker représente le pacemaker lui-même et permet de faire toutes les fonctions liées à notre pacemaker, c'est à dire envoyer les données au médecin grâce à la fonction EnvoieMedecin, récupérer les données du patient avec récupèredonnéepatients et envoyer des impulsions électriques pour stimuler les muscles cardiaques grâce à la fonction EnvoieImpulsions.
-Notre classe ECG premet d'avoir toutes les données du coeur (par exemple le rythme cardiaque) essentielles pour le bon fonctionnement du pacemaker. Puis nous avons rajouter une classe Mode Turbo fictive pour montrer que nous avions bien compris le fonctionnement d'un diagramme de classe.
+Notre classe ECG permet d'avoir toutes les données du coeur (par exemple le rythme cardiaque) essentielles pour le bon fonctionnement du pacemaker. Puis nous avons rajouter une classe Mode Turbo fictive pour montrer que nous avions bien compris le fonctionnement d'un diagramme de classe.
 
 
-ECGData : Représente les données ECG spécifiques, y compris un identifiant et les points de données ECG.
 
-Patient : Représente le patient associé au pacemaker, avec des attributs tels que l'identifiant, le nom, la date de naissance et l'historique médical. Il possède des méthodes pour accéder à ces informations et pour ajouter des enregistrements médicaux.
 
 
 
