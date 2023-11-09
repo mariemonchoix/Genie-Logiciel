@@ -38,107 +38,15 @@ Les composants principaux d'un diagramme de classe sont :
   
 
 
-Diagramme de classe 
+Notre Diagramme de classe 
 --------------------
 
 
 
-
-|          Classe Pacemaker                |
-------------------------------------
+![Diagramme sans nom](https://github.com/mariemonchoix/Genie-Logiciel/assets/147620874/d8eea5f6-d7e1-40d5-b06c-399cf64881f8)
 
 
 
-
-- id: int                         
-- patient: Patient                
-- telemetry: TelemetryModule      
-
---------------------------------
-
-Fonctions de la classe :
-
- + getPacemakerID(): int           
- + getPatient(): Patient           
- + setPatient(patient: Patient):   
- + getTelemetry(): TelemetryModule 
- + setTelemetry(telemetry:        
- TelemetryModule):                
- + sendTelemetryData(): void      
-
-
-
-|           Classe TelemetryModule          |
--------------------------------------
-
-
- - telemetryData: TelemetryData[]   
-
------------------------------------------
-Fonctions de la classe :
-
-+ collectData(): void
-+ transmitData(): void            
-+ storeData(): void               
-
-
-
-|        Classe TelemetryData            |
--------------------------------------
-
-
- - dataID: int                     
- - heartRate: int                  
- - ECG: ECGData                    
- - activityLevel: int              
-
-------------------------------------------
-Fonctions de la classe :
-
- + getDataID(): int                
- + getHeartRate(): int             
- + getECGData(): ECGData           
- + getActivityLevel(): int         
-
-
-
-|            Classe ECGData                 |
--------------------------------------
-
-
- - ecgID: int                      
- - dataPoints: int[]
-
- - 
--------------------------------------
-Fonctions de la classe :
-
-
-  getECGID(): int                 
-  getDataPoints(): int[]          
-
-
-
-|           Classe Patient                 |
--------------------------------------
-
-
-
- - patientID: int                  
- - name: string                    
- - dateOfBirth: Date               
- - medicalHistory: string[]
-
- - 
--------------------------------------
-Fonctions de la classe :
-
-
-getPatientID(): int             
-getName(): string               
-getDateOfBirth(): Date          
-getMedicalHistory(): string[]   
-addMedicalRecord(record: string)
 
 Voici à quoi correspond chaque classe dans notre diagramme de classe :
 
@@ -153,6 +61,4 @@ ECGData : Représente les données ECG spécifiques, y compris un identifiant et
 Patient : Représente le patient associé au pacemaker, avec des attributs tels que l'identifiant, le nom, la date de naissance et l'historique médical. Il possède des méthodes pour accéder à ces informations et pour ajouter des enregistrements médicaux.
 
 
-Voici le schéma représentatif de notre diagramme de classes :
-![Diagramme sans nom](https://github.com/mariemonchoix/Genie-Logiciel/assets/147620874/d8eea5f6-d7e1-40d5-b06c-399cf64881f8)
 
