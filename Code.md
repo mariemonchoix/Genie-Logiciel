@@ -40,7 +40,6 @@ import random
 
 def simulation_pacemaker():
     
-    
     pacemaker = Pacemaker()
   
     while True:
