@@ -195,6 +195,39 @@ Proposer un cahier des charges réalistes (budget et règlementation) --> inform
 
 Améliorer le déplacement dans github --> paragraphe pour expliquer comment se déplacer.
 
+**Les objectifs futurs** :
+
+- Prendre en compte l'audit de Méline : améliorer notre Gitub
+- Avancer notre cahier des charges.
+- Terminer les Units Test.
+- Terminer le diagramme de classe.
+
+ ------------------------
+
+   **- Réunion 10/12/23**
+  -----------------------
+
+**Résumé de l'état actuel de nos recherches** :
+
+Pendant cette réunion, plusieurs points ont été abordés pour permettre de réaliser notre soutenance qui se déroulera mercredi 13/12/23. Un état des lieux a été effectué :
+- Le document Unit Test n'est pas terminé.
+- Les comptes rendus sont à jour (séances et réunion). Il suffira de déposer notre power point dans la section présentation.
+- Le dossier Collection d'informations est à jour.
+- Le document diagramme de classe est terminé.
+- Le readme n'est plus à jour.
+
+**Problèmes existants et solutions** :
+
+Trop d'issues ouvertes alors qu'elles étaient finies. Nous avons clos plusieurs "Issues" qui étaient terminées.
+Le readme n'étant plus à jour, nous l'avons modifié pour améliorer la navigation dans notre projet.
+
+**Les objectifs futurs** :
+
+- Mettre en forme le document Unit Test.
+- Créer un power point pour la soutenance.
+- Vérifier l'orthographe sur tous les documents.
+- Relecture des documents pour savoir si toutes les infos sont présentes.
+- Archiver toutes les "Issues" si elles sont terminées.
 
 
 **3. Presentation**
@@ -217,4 +250,20 @@ Commentaires :
 - on a bien défini nos objectifs
 - on doit maintennant avancer le cahier des charges
 
+Document disponible :
 [Le pacemaker connecté.pptx](https://github.com/mariemonchoix/Genie-Logiciel/files/13163411/Le.pacemaker.connecte.pptx)
+
+
+Présentation finale du projet
+
+Power point sur l'évolution de notre projet et la finalité.
+Membres : 
+- Cloé
+- Anaïs
+- Marie
+- Anne-Laure
+- Stéphanie
+
+Date : 13/12/2023
+
+Document disponible :
