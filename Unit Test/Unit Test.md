@@ -6,21 +6,27 @@ Ceci est le document qui permet de recenser les tests unitaires pour vérifier l
 **Tests liés au pacemaker**
 ----------------------------
 
-**Détection des battements cardiaques** : Tester la capacité du pacemaker à détecter les battements cardiaques naturels afin de ne pas envoyer des impulsions électriques en même temps que celles naturelles. *Validation* : le capteur de détection cardiaque capte une tension électrique comprise dans une marge définie entre 0 et 450 battements par minute.
+**Détection des battements cardiaques** : Tester la capacité du pacemaker à détecter les battements cardiaques naturels afin de ne pas envoyer des impulsions électriques en même temps que celles naturelles. 
+
+*Validation* : le capteur de détection cardiaque capte une tension électrique comprise dans une marge définie entre 0 et 450 battements par minute.
 
 **Stimulation**: Tester la capacité du pacemaker à générer des impulsions électriques pour stimuler le cœur en cas de besoin grâce aux capteurs de détection.
+
 *Validation* : Présence d'une tension en sortie du stimulateur lorsque la fréquence cardiaque est entre 0 et X battements par minute.
 
 **Batterie** : Tester la durée de vie de la batterie et la gestion de l'énergie du pacemaker.
 *Validation* : Dans les conditions limites d'utilisation, on mesure les paramètres de la batterie (voltage ...).
 
 **Mode de sauvegarde** : Tester le basculement automatique vers un mode de sauvegarde en cas de défaillance du pacemaker principal. 
+
 *Validation* : effectuer une stimulation et vérifier dans les logs qu'il y a bien des données enregistrées.
 
 **Réaction aux interférences électromagnétiques** : Tester la résistance du pacemaker aux interférences électromagnétiques externes.
+
 *Validation* : induction d'un champ magnétique proche du pacemaker et vérifier son bon fonctionnement (vérification de présence d'impulsions en cas d'arythmie).
 
 **Tests de robustesse** : Tester la capacité du pacemaker à résister aux conditions environnementales défavorables (humidité, chocs, température, etc.).
+
 *Validation* : Surveiller s'il surchauffe ou s'il s'arrête de fonctionner.
 
 
