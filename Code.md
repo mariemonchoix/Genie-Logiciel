@@ -37,8 +37,10 @@ import random
 **Fonction principale de simulation de l'utilisation du pacemaker**
 
 
+
 def simulation_pacemaker():
     pacemaker = Pacemaker()
+  
     while True:
         # Collecte des données ECG
         donnees_ECG = pacemaker.collecter_donnees_ECG()
