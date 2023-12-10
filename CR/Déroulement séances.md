@@ -9,8 +9,8 @@
 **Objectifs de la séance** :
 
 
-- Déterminer notre projet
-- Effectuer les premières recherches
+- Déterminer notre projet (DM, secteur ciblé, caractéristique ajoutée)
+- Effectuer les premières recherches (google scholar, site de recherches sur les maladies cardiaques)
 
 **Ce que nous avons fait** :
 
@@ -27,9 +27,9 @@ Nous avons commencé à chercher des articles concernant le pacemaker. Ce sera l
 
 
 Pour l'ensemble du groupe :
-- il faudra effectuer des recherches sur un thème spécifique
-- les rôles devront être attribués
-- une meilleure compréhension du logiciel pour toutes
+- il faudra effectuer des recherches sur un thème spécifique : la sécurité du dispositif, les dispositifs existants dans le domaine médical.
+- les rôles devront être attribués (référente Github, finance, technologie ...).
+- une meilleure compréhension du logiciel pour toutes (mise en pagen, insertion d'image ...).
   
  ------------------------ 
  
@@ -38,7 +38,7 @@ Pour l'ensemble du groupe :
 **Objectifs de la séance** :
 
 
-- Définir les rôles de chacunes en priorité
+- Définir les rôles de chacunes en priorité.
 - Collecter les informations sur notre sujet.
 
 **Ce que nous avons fait** :
