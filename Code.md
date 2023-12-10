@@ -1,5 +1,5 @@
 Code qui pourrait fonctionner pour coder le fonctionnement de notre pacemaker 
-===============================================================================
+----------------------------------------------------------------------------------
 
 Code en python 
 ---------------
@@ -15,6 +15,7 @@ On va écrire le code en simulant des données.
 
 import time
 import random
+
 
 class Pacemaker:
     def collecter_donnees_ECG(self):
