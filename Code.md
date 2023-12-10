@@ -53,4 +53,6 @@ def simulation_pacemaker():
         time.sleep(5)  # Attente de 5 secondes pour simuler une période de collecte en temps réel
 
 **Lancement de la simulation**
+
+
 simulation_pacemaker()
