@@ -17,11 +17,13 @@ Notre groupe est motivée par l'innovation biomédicale et les enjeux qu'elles o
 **Comment se déplacer ?**
 ------------------------
 
-Pour pouvoir naviguer facilement dans notre projet, il vous suffit de cliquer sur les dossiers qui vous intéressent. Nous retrouvons, à ce stade, 4 dossiers qui sont :
+Pour pouvoir naviguer facilement dans notre projet, il vous suffit de cliquer sur les dossiers qui vous intéressent. Nous retrouvons 6 dossiers qui sont :
 - CDC. C'est le cahier des charges qui englobe 5 sous-dossiers (Présentation et contexte du projet, prestations attendues, besoins et contraintes du projet, budget et normes et réglementations). Ce dossier représente le coeur de notre projet. Les sous-dossiers permettent d'expliquer l'importance et la faisabilité de notre projet qui nous tient à coeur.
 - CR. Ce sont les comptes-rendus de chaque séance, réunion et présentation devant le client. Ce dossier vous permettra de mieux comprendre l'avancée de notre projet, le rôle de chaque personne et les tâches à effectuer. Il est autant utile du point de vue externe que du point de vue interne car il permet à mon équipe et moi-même de travailler rapidement en ayant connaissance de ce que font les autres.
 - Collection d'informations. Ce dossier est divisé en différents thèmes suivant les recherches effectuées. En effet, les sources sont importantes pour pouvoir écrire par la suite notre cahier des charges.
-- Prise en main Github. Ce document permet de mettre en page un document github pour une meilleure présentation (ex : faire des titres, insérer des photos...)
+- Diagramme de classe. Cette représentation permet de présenter l'organisation des classes de notre projet et les fonctions existantes. Ce document permet une meilleur compréhension côté technique et structurelle de l'agancement de notre travail.
+- Prise en main Github. Ce document permet de mettre en page un document github pour une meilleure présentation (ex : faire des titres, insérer des photos...).
+- Unit Test. Explique les différentes caractéristiques que nous allons tester pour vérifier la faisabilité du projet et les capacités techniques du pacemaker.
 
 Vous pouvez aussi accéder aux tâches en cours ou celles déjà effectués dans les différentes parties du logiciel. Un GANTT vous est proposé pour visualiser notre calendrier et les deadline associées.
 Nous espérons que cette lecture vous facilite la navigation.
