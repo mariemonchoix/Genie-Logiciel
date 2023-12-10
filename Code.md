@@ -19,6 +19,8 @@ import random
 
 
 **class Pacemaker:**
+
+
     def collecter_donnees_ECG(self):  # Simuler la collecte de données ECG
         donnees_ECG = self.generer_donnees_ECG()
         return donnees_ECG
