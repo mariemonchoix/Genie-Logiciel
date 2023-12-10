@@ -15,7 +15,6 @@ On va écrire le code en simulant des données.
 
 import time
 
-
 import random
 
 
@@ -34,7 +33,7 @@ import random
         print(f"Envoi des données au médecin : {donnees}")
         
 
-# Fonction principale de simulation de l'utilisation du pacemaker
+**Fonction principale de simulation de l'utilisation du pacemaker**
 def simulation_pacemaker():
     pacemaker = Pacemaker()
 
@@ -48,5 +47,5 @@ def simulation_pacemaker():
         # Attente de quelques secondes avant la prochaine collecte/envoi de données
         time.sleep(5)  # Attente de 5 secondes pour simuler une période de collecte en temps réel
 
-# Lancement de la simulation
+**Lancement de la simulation**
 simulation_pacemaker()
