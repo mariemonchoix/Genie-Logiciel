@@ -1,8 +1,8 @@
 Code qui pourrait fonctionner pour coder le fonctionnement de notre pacemaker 
 ----------------------------------------------------------------------------------
 
-Code en python 
----------------
+**Code en python**
+
 
 
 On crée une classe Pacemaker qui collecte et envoie des données de santé simulées à un médecin. 
@@ -14,12 +14,13 @@ On va écrire le code en simulant des données.
 
 
 import time
+
+
 import random
 
 
-class Pacemaker:
-    def collecter_donnees_ECG(self):
-        # Simuler la collecte de données ECG
+**class Pacemaker:**
+    def collecter_donnees_ECG(self):  # Simuler la collecte de données ECG
         donnees_ECG = self.generer_donnees_ECG()
         return donnees_ECG
     
