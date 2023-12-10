@@ -6,7 +6,7 @@ Code qui pourrait fonctionner pour coder le fonctionnement de notre pacemaker
 
 
 On crée une classe Pacemaker qui collecte et envoie des données de santé simulées à un médecin. 
-Pour simuler l'envoi en temps réel des informations, nous utiliserons simplement une fonction envoyer_donnees qui est utilisée pour simuler l'envoi des données au médecin, imprimera les données pour faire une démonstration. Dans un environnement réel, cette fonction serait modifiée pour effectuer une transmission réelle des données à un système de surveillance ou à un médecin, peut-être via des protocoles de communication appropriés comme HTTP, MQTT, ou d'autres méthodes de communication réseau.
+Pour simuler l'envoi en temps réel des informations au médecin, nous utiliserons simplement une fonction envoyer_donnees. Dans un environnement réel, cette fonction serait modifiée pour effectuer une transmission réelle des données à un système de surveillance ou à un médecin, peut-être via des protocoles de communication appropriés comme HTTP, MQTT, ou d'autres méthodes de communication réseau.
 On a écrit le code en simulant des données aléatoires.
 Dans le code, on utilise une boucle infinie pour simuler la collecte et l'envoi en temps réel des données ECG. 
 
