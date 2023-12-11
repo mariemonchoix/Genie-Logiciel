@@ -35,30 +35,68 @@ Ceci est le document qui permet de recenser les tests unitaires pour vérifier l
 ----------------------------------------------------
 
 **Surveillance des paramètres du patient** : Tester la capacité du pacemaker à surveiller des paramètres tels que la fréquence cardiaque, la température, l'activité physique, etc. 
+
 *Validation* : dès que la tension en sortie de la pile n'est plus constante, envoi d'une alarme au système de télésurveillance du médecin, vérifier que les données peuvent être récupérer dans la base de données du logiciel.
 
-**Communication sans fil** : Tester la capacité du pacemaker à communiquer sans fil avec des dispositifs de contrôle et de suivi. *Validation* : émission de ping par le pacemaker et réception de ping via la plateforme de télémédecine
+**Communication sans fil** : Tester la capacité du pacemaker à communiquer sans fil avec des dispositifs de contrôle et de suivi. 
 
-**Sécurité et confidentialité des données** : Tester les mécanismes de sécurité et de confidentialité pour protéger les données du patient. *Validation* : spam de ping vers le système du pacemaker, vérification de l'alarme auprès du système de télémédecine. Blocage du dispositif sur les paramètres enregistrés par le médecin et impossible de les modifier avant le prochain RDV en urgence chez le médecin
+*Validation* : émission de ping par le pacemaker et réception de ping via la plateforme de télémédecine
 
-**Gestion des alarmes** : Tester la génération et la gestion des alarmes en cas de problèmes. *Validation* : en cas d'arythmie, vérification de la présence d'une alrmae sur le système de télémmédecine
+**Sécurité et confidentialité des données** : Tester les mécanismes de sécurité et de confidentialité pour protéger les données du patient. 
 
-**Gestion des mises à jour logicielles** : Tester la capacité de mettre à jour le logiciel du pacemaker de manière sécurisée. *Validation* : 
+*Validation* : spam de ping vers le système du pacemaker, vérification de l'alarme auprès du système de télémédecine. Blocage du dispositif sur les paramètres enregistrés par le médecin et impossible de les modifier avant le prochain RDV en urgence chez le médecin
+
+**Gestion des alarmes** : Tester la génération et la gestion des alarmes en cas de problèmes. 
+
+*Validation* : en cas d'arythmie, vérification de la présence d'une alrmae sur le système de télémmédecine
+
+**Gestion des mises à jour logicielles** : Tester la capacité de mettre à jour le logiciel du pacemaker de manière sécurisée. 
+
+*Validation* : 
+
 **Réponse aux erreurs et aux défaillances** : Tester la réponse du pacemaker aux erreurs et aux défaillances matérielles ou logicielles.
+
+*Validation* : 
+
 **Tests de simulation** : Tester le pacemaker à l'aide de simulateurs de signaux cardiaques pour valider son fonctionnement en toute sécurité.
+
+*Validation* : 
+
 **Évaluation de la sécurité des communications sans fil** : Tester la sécurité des communications sans fil entre le pacemaker et les dispositifs de contrôle.
+
+*Validation* : 
+
 **Tests d'interopérabilité** : Tester la capacité du pacemaker à fonctionner avec d'autres dispositifs médicaux et systèmes de santé.
+
+*Validation* : 
+
 **Tests de durée de vie** : Tester la durée de vie du pacemaker dans des conditions d'utilisation normale et extrême.
+
+*Validation* : 
+
 **Conformité aux normes réglementaires** : S'assurer que le pacemaker est conforme aux normes et réglementations médicales en vigueur.
+
+*Validation* : 
+
 **Tests de performances à long terme** : Tester la performance du pacemaker sur une période prolongée pour évaluer sa fiabilité dans le temps.
 
-Tests d'interopérabilité : Tester la capacité du pacemaker à fonctionner avec d'autres dispositifs médicaux et systèmes de santé. *Validation* : vérification à l’aide d’un moniteur, IRM, et radio et tester le bon fonctionnement (détection arythmie et correction)
+*Validation* : 
 
-Tests de durée de vie : Tester la durée de vie du pacemaker dans des conditions d'utilisation normale et extrême. *Validation* : induction d’une obsolescence programmée en réalisant plusieurs stimulations programmés (pour égaler la durée de vie maximale du PM), et voir à quel moment le PM ne fonctionne plus pour savoir sa durée de vie.
+**Tests d'interopérabilité** : Tester la capacité du pacemaker à fonctionner avec d'autres dispositifs médicaux et systèmes de santé. 
 
-Conformité aux normes réglementaires : S'assurer que le pacemaker est conforme aux normes et réglementations médicales en vigueur. *Validation* : vérification du PM par les organismes de santé qui délivre l’Autorisation de Mise sur le Marché (ANSM)
+*Validation* : vérification à l’aide d’un moniteur, IRM, et radio et tester le bon fonctionnement (détection arythmie et correction)
 
-Tests de performances à long terme : Tester la performance du pacemaker sur une période prolongée pour évaluer sa fiabilité dans le temps. *Validation* : : induction d’une obsolescence programmée en réalisant plusieurs stimulations programmés et vérification de la correction d’arythmie
+**Tests de durée de vie** : Tester la durée de vie du pacemaker dans des conditions d'utilisation normale et extrême. 
+
+*Validation* : induction d’une obsolescence programmée en réalisant plusieurs stimulations programmés (pour égaler la durée de vie maximale du PM), et voir à quel moment le PM ne fonctionne plus pour savoir sa durée de vie.
+
+**Conformité aux normes réglementaires** : S'assurer que le pacemaker est conforme aux normes et réglementations médicales en vigueur. 
+
+*Validation* : vérification du PM par les organismes de santé qui délivre l’Autorisation de Mise sur le Marché (ANSM)
+
+**Tests de performances à long terme** : Tester la performance du pacemaker sur une période prolongée pour évaluer sa fiabilité dans le temps. 
+
+*Validation* : : induction d’une obsolescence programmée en réalisant plusieurs stimulations programmés et vérification de la correction d’arythmie
 
 
 En fonction de la position du corps regarder si la pression du coeur influe sur le fonctionnement du PM
