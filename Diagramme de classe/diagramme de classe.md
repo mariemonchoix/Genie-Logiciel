@@ -42,4 +42,4 @@ Nous avons donc 3 classes : une classe Pacemaker, une classe Données ECG et une
 Notre classe pacemaker représente le pacemaker lui-même et permet de faire toutes les fonctions liées à notre pacemaker, c'est à dire envoyer les données au médecin grâce à la fonction EnvoieMedecin, récupérer les données du patient avec récupèredonnéepatients et envoyer des impulsions électriques pour stimuler les muscles cardiaques grâce à la fonction EnvoieImpulsions.
 
 
-Notre classe ECG permet d'avoir toutes les données du coeur (par exemple le rythme cardiaque) essentielles pour le bon fonctionnement du pacemaker. Puis nous avons rajouter une classe Mode Turbo fictive pour montrer que nous avions bien compris le fonctionnement d'un diagramme de classe.
+Notre classe ECG permet d'avoir toutes les données du coeur (par exemple le rythme cardiaque) essentielles pour le bon fonctionnement du pacemaker. Puis nous avons rajouter  classe Mode Turbo fictive pour montrer que nous avions bien compris le fonctionnement d'un diagramme de classe.
