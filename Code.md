@@ -20,30 +20,26 @@ import random
 **classe Pacemaker:**
 
 
-    *def collecter_donnees_ECG(self):*  
+    def collecter_donnees_ECG(self):  
     # On simule la collecte de données ECG
-        donnees_ECG = self.generer_donnees_ECG()
+        donnees_ECG = self.generer_donnees_ECG() # Simulation du rythme cardiaque
         return donnees_ECG
     
-    *def generer_donnees_ECG(self):*
+    def generer_donnees_ECG(self):
     # On simule un rythme cardiaque aléatoire 
         return random.randint(60, 100)  
 
-    *def envoyer_donnees(self, donnees):*
-    # On simule l'envoi des données au médecin 
-    (pour l'ex : affichage des données)
+    def envoyer_donnees(self, donnees):
+    # On simule l'envoi des données au médecin (pour l'ex : affichage des données)
       print("Envoi des données au médecin : {donnees}")
         
-# Simulation du rythme cardiaque
 
 **Fonction principale de simulation de l'utilisation du pacemaker**
 
 
 
 def simulation_pacemaker():
-    
     pacemaker = Pacemaker()
-  
     while True:
         # Collecte des données ECG
         donnees_ECG = pacemaker.collecter_donnees_ECG()
@@ -51,8 +47,9 @@ def simulation_pacemaker():
         # Envoi des données au médecin en temps réel
         pacemaker.envoyer_donnees(donnees_ECG)
 
-        # Attente de quelques secondes avant la prochaine collecte/envoi de données
-        time.sleep(5)  # Attente de 5 secondes pour simuler une période de collecte en temps réel
+        # Attente de 5 sec avant la prochaine 
+          collecte/envoi de données
+        time.sleep(5)  # Attente de 5 sec pour simuler une période de collecte en temps réel
 
 **Lancement de la simulation**
 
