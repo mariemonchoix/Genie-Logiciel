@@ -72,10 +72,8 @@ Entreprise leaders sur le marché :
 
 - Abbott (anciennement St. Jude Medical) : Abbott fabrique des DCI et des DAI sous la marque "Abbott/St. Jude Medical ICD."
 
-
-- Boston Scientific : Boston Scientific est un autre acteur majeur dans la fabrication de DCI et de DAI. Leur gamme de produits comprend des dispositifs sous la marque "Boston Scientific S-ICD" (Subcutaneous Implantable Cardioverter Defibrillator).
-
-- Abbott (anciennement St. Jude Medical) : Abbott fabrique des DCI et des DAI sous la marque "Abbott/St. Jude Medical ICD."
+- Biotronik
+- Livanova
 
 
 
