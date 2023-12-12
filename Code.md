@@ -20,18 +20,21 @@ import random
 **classe Pacemaker:**
 
 
-    def collecter_donnees_ECG(self):  # On simule la collecte de données ECG
+    *def collecter_donnees_ECG(self):*  
+    # On simule la collecte de données ECG
         donnees_ECG = self.generer_donnees_ECG()
         return donnees_ECG
     
-    def generer_donnees_ECG(self):
-        # On simule la génération de données aléatoires d'ECG
-        return random.randint(60, 100)  # Simulation du rythme cardiaque
+    *def generer_donnees_ECG(self):*
+    # On simule un rythme cardiaque aléatoire 
+        return random.randint(60, 100)  
 
-    def envoyer_donnees(self, donnees):
-        # On simule l'envoi des données au médecin (pour l'exemple, affichage des données)
-        print("Envoi des données au médecin : {donnees}")
+    *def envoyer_donnees(self, donnees):*
+    # On simule l'envoi des données au médecin 
+    (pour l'ex : affichage des données)
+      print("Envoi des données au médecin : {donnees}")
         
+# Simulation du rythme cardiaque
 
 **Fonction principale de simulation de l'utilisation du pacemaker**
 
