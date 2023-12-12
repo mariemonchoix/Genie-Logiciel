@@ -39,7 +39,11 @@ import random
 
 
 def simulation_pacemaker():
+
+
     pacemaker = Pacemaker()
+
+    
     while True:
         # Collecte des données ECG
         donnees_ECG = pacemaker.collecter_donnees_ECG()
