@@ -25,7 +25,7 @@ Défibrillation
 ----------------------------
 
 En cas de fibrillation ventriculaire, une arythmie potentiellement mortelle, le DCI/DAI est capable de délivrer une décharge électrique plus puissante pour rétablir le rythme cardiaque normal. Cela équivaut à une défibrillation automatique interne (DAI) et peut sauver la vie du patient.
-Stockage de données : Ces dispositifs sont équipés de mémoire pour stocker des données sur l'activité cardiaque du patient. Ces informations peuvent être récupérées lors de visites de suivi médical pour aider les médecins à évaluer l'état du patient.
+Ces dispositifs sont équipés de mémoire pour stocker des données sur l'activité cardiaque du patient. Ces informations peuvent être récupérées lors de visites de suivi médical pour aider les médecins à évaluer l'état du patient.
 
 Télésurveillance
 ----------------------------
